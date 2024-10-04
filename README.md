@@ -39,6 +39,22 @@ The datasets include continuous seismic records, catalogs of known seismic event
 ## Contact
 **For any further information, please contact:**
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Institution**: [Your Institution]
+- **Name**: Rayhanul Amin Tanvir
+- **Email**: rayhanulamint2@gmail.com
+- **Institution**: Shahjalal University of Science and Technology
+
+- **Name**: Rayhanul Amin Tanvir
+- **Email**: rayhanulamint2@gmail.com
+- **Institution**: Shahjalal University of Science and Technology
+
+- **Name**: Rayhanul Amin Tanvir
+- **Email**: rayhanulamint2@gmail.com
+- **Institution**: Shahjalal University of Science and Technology
+
+- **Name**: Rayhanul Amin Tanvir
+- **Email**: rayhanulamint2@gmail.com
+- **Institution**: Shahjalal University of Science and Technology
+
+- **Name**: Rayhanul Amin Tanvir
+- **Email**: rayhanulamint2@gmail.com
+- **Institution**: Shahjalal University of Science and Technology
