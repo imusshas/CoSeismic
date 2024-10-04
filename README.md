@@ -89,6 +89,12 @@ Dept. of CSE, SUST <br>
 **Phone**: +8801721998383<br>
 Dept. of CSE, SUST <br>
 
+- **Name**: Gazi Mujtaba Rafid<br>
+**NASA Space App Username**: rafid51<br>
+**Email**: gazi51@student.sust.edu<br>
+**Phone**: +8801521791608<br>
+Dept. of CSE, SUST <br>
+
 - **Name**: Md. Abid Ullah Muhib<br>
 **NASA Space App Username**: mdabidullahmuhib<br>
 **Email**: uusshas12@gmail.com<br>
