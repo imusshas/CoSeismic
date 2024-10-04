@@ -41,7 +41,8 @@ The datasets include continuous seismic records, catalogs of known seismic event
 
 ![Team Onuronon](https://github.com/user-attachments/assets/bd5322c8-21f6-4bce-8e65-cc44e57721fa)
 ### Team Onuronon <br>
-Team link at NASA Space App's Website: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/onuronon/ <br>
+Team link at NASA Space App's Website:<br>
+https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/onuronon/ <br>
 Shahjalal University of Science and Technology, Bangladesh <br> <br>
 
 ### Team Members: <br>
