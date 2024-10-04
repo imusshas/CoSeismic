@@ -1,22 +1,40 @@
-## Project Overview
-**This project focuses on developing an energy-efficient solution for analyzing seismic data collected from planetary missions such as Apollo and the Mars InSight Lander.** The primary objective is to differentiate between noise and genuine seismic events, optimizing the amount of data sent back to Earth by identifying only useful signals. Given the challenges of transmitting continuous seismic data over long distances, this solution is designed to improve the efficiency and accuracy of seismic event detection, ultimately reducing power consumption.
+<div align="center">
+
+# Optimizing Seismic Detection for Planetary Missions Across the Solar System
+
+</div>
+
+The exploration of seismic activity on distant planets holds the potential to reveal crucial information about their internal structures. However, detecting true seismic quakes amidst noise from environmental interference and spacecraft disturbances presents a significant challenge. We, team **ONURONON**, are addressing this problem as part of the **“Seismic Detection Across the Solar System”** challenge. Our mission is to enhance the accuracy and efficiency of seismic data transfer from celestial bodies like the Moon and Mars, while reducing energy consumption.
 
 ## Problem Statement
-**Planetary seismology is constrained by the high power requirements needed to transmit large amounts of continuous seismic data.** However, only a small fraction of this data is scientifically useful. This project seeks to create an algorithm that filters out noise and identifies seismic events within the data, sending only relevant information back to Earth.
+
+Planetary seismology missions struggle with the power requirements necessary to send continuous seismic data back to Earth. But only a fraction of this data is scientifically useful! Instead of sending back all the data collected, what if we could program a lander to distinguish signals from noise, and send back only the data we care about? Your challenge is to write a computer program to analyze real data from the Apollo missions and the Mars InSight Lander to identify seismic quakes within the noise!
 
 ## Objectives
-- **Develop an algorithm to analyze seismic data from the Apollo missions and Mars InSight Lander.**
-- **Filter noise and detect genuine seismic events within the dataset.**
-- **Optimize energy usage by transmitting only relevant seismic data.**
-- **Use machine learning techniques or conventional algorithms (e.g., STA/LTA) to enhance detection accuracy.**
 
-## Solution Approach
-**We have implemented an algorithm that processes seismic data by analyzing both cataloged and uncatalogued datasets.** Our approach allows the system to:
-- Identify seismic signals with high accuracy.
-- Filter out irrelevant data to reduce the transmission load.
-- Handle missing data and glitches, which are common in planetary seismic records.
+- **Develop an algorithm** to analyze seismic data from the Apollo missions and Mars InSight Lander.
+- **Filter noise and detect genuine seismic events** within the dataset.
+- **Optimize energy usage** by transmitting only relevant seismic data.
+- **Use machine learning techniques or conventional algorithms (e.g., STA/LTA)** to enhance detection accuracy.
 
-Machine learning models were also explored to improve accuracy in detecting seismic quakes in planetary environments, as these signals can differ significantly from those observed on Earth.
+## Solution Procedures
+
+**We have developed a machine learning model** to solve the challange. The steps are described below:-
+
+### Signal Processing
+### Feature Extraction
+### Classification
+### Data reduction
+### Model Description
+
+## Key Benefits
+
+The primary benefits that one can achieve from our **Machine Learning Model** are:-
+
+- Reduces Power Consumption
+- Improves Data Accuracy
+- Predict Sysmic Activity
+- Crutial for Building Safe Habitats on the Moon and Mars
 
 ## Data and Resources
 **The project uses real seismic data from:**
