@@ -41,32 +41,37 @@ The datasets include continuous seismic records, catalogs of known seismic event
 
 ![Team Onuronon](https://github.com/user-attachments/assets/bd5322c8-21f6-4bce-8e65-cc44e57721fa)
 ### Team Onuronon <br>
-Team link at NASA's Website: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/onuronon/ <br>
+Team link at NASA Space App's Website: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/onuronon/ <br>
 Shahjalal University of Science and Technology, Bangladesh <br> <br>
 
 ### Team Members: <br>
 
 - **Name**: Rayhanul Amin Tanvir<br>
+**NASA Space App Username**: rayhanul_amin<br>
 **Email**: rayhanulamint2@gmail.com<br>
 **Phone**: +8801866843730<br>
 Dept. of CSE, SUST <br>
 
 - **Name**: Nasiat Hasan Fahim<br>
+**NASA Space App Username**: nasiat<br>
 **Email**: nhfahim18@gmail.com<br>
 **Phone**: +8801643281865<br>
 Dept. of CSE, SUST <br>
 
 - **Name**: Sumaiya Ali Shafa<br>
+**NASA Space App Username**: shafa22<br>
 **Email**: sumaiyashafa.15@gmail.com<br>
 **Phone**: +8801537469153<br>
 Dept. of CSE, SUST <br>
 
 - **Name**: Khalid Bin Selim<br>
+**NASA Space App Username**: khalid_44<br>
 **Email**: khalidbinselim@gmail.com<br>
 **Phone**: +8801721998383<br>
 Dept. of CSE, SUST <br>
 
 - **Name**: Md. Abid Ullah Muhib<br>
+**NASA Space App Username**: mdabidullahmuhib<br>
 **Email**: uusshas12@gmail.com<br>
 **Phone**: +8801733402023<br>
 Dept. of CSE, SUST <br>
