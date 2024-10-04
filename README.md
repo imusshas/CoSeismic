@@ -35,35 +35,33 @@ The primary benefits that one can achieve from our **Machine Learning Model** ar
 - Improves Data Accuracy
 - Predict Sysmic Activity
 - Crutial for Building Safe Habitats on the Moon and Mars
-
-## Data and Resources
-**The project uses real seismic data from:**
-- **Apollo Missions**: Lunar seismic data.
-- **Mars InSight Lander**: Seismic data from Mars.
-
-The datasets include continuous seismic records, catalogs of known seismic events, and test data for further analysis.
+- 
+## Resources
+- **Train Dataset:** 
+- **Test Dataset:**
+- **Earth Data from pyweed:**
+- **NASA Provided Dataset:**
 
 ## Usage
 **The Jupyter Notebook contains detailed instructions on how to run the seismic analysis and visualize the data.** You can modify the provided algorithms to enhance the detection of seismic quakes or use machine learning models for more complex analysis.
-
-## Results
-**Our model achieved significant accuracy in detecting seismic events from planetary data.** By applying signal processing techniques, we were able to reduce noise interference and identify previously unrecorded seismic events.
 
 ## Future Work
 **We plan to:**
 - Further optimize the energy efficiency of the algorithm for real-time onboard use in future space missions.
 - Explore additional machine learning techniques to improve detection in low signal-to-noise ratio environments.
 
+## Conclusion
+
 ## About us
 **For any further information, please contact:**
 
 ![Team Onuronon](https://github.com/user-attachments/assets/bd5322c8-21f6-4bce-8e65-cc44e57721fa)
-### Team Onuronon <br>
+### Team Onuronon
 Team link at NASA Space App's Website:<br>
 https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/onuronon/ <br>
 Shahjalal University of Science and Technology, Bangladesh <br> <br>
 
-### Team Members: <br>
+### Team Members:
 
 - **Name**: Rayhanul Amin Tanvir<br>
 **NASA Space App Username**: rayhanul_amin<br>
