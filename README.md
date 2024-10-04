@@ -36,25 +36,37 @@ The datasets include continuous seismic records, catalogs of known seismic event
 - Further optimize the energy efficiency of the algorithm for real-time onboard use in future space missions.
 - Explore additional machine learning techniques to improve detection in low signal-to-noise ratio environments.
 
-## Contact
+## About us
 **For any further information, please contact:**
 
-- **Name**: Rayhanul Amin Tanvir
-- **Email**: rayhanulamint2@gmail.com
-- **Institution**: Shahjalal University of Science and Technology
+![Team Onuronon](https://github.com/user-attachments/assets/bd5322c8-21f6-4bce-8e65-cc44e57721fa)
+### Team Onuronon <br>
+Team link at NASA's Website: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/onuronon/ <br>
+Shahjalal University of Science and Technology, Bangladesh <br> <br>
 
-- **Name**: Rayhanul Amin Tanvir
-- **Email**: rayhanulamint2@gmail.com
-- **Institution**: Shahjalal University of Science and Technology
+### Team Members: <br>
 
-- **Name**: Rayhanul Amin Tanvir
-- **Email**: rayhanulamint2@gmail.com
-- **Institution**: Shahjalal University of Science and Technology
+- **Name**: Rayhanul Amin Tanvir<br>
+**Email**: rayhanulamint2@gmail.com<br>
+**Phone**: +8801866843730<br>
+Dept. of CSE, SUST <br>
 
-- **Name**: Rayhanul Amin Tanvir
-- **Email**: rayhanulamint2@gmail.com
-- **Institution**: Shahjalal University of Science and Technology
+- **Name**: Nasiat Hasan Fahim<br>
+**Email**: nhfahim18@gmail.com<br>
+**Phone**: +8801643281865<br>
+Dept. of CSE, SUST <br>
 
-- **Name**: Rayhanul Amin Tanvir
-- **Email**: rayhanulamint2@gmail.com
-- **Institution**: Shahjalal University of Science and Technology
+- **Name**: Sumaiya Ali Shafa<br>
+**Email**: sumaiyashafa.15@gmail.com<br>
+**Phone**: +8801537469153<br>
+Dept. of CSE, SUST <br>
+
+- **Name**: Khalid Bin Selim<br>
+**Email**: khalidbinselim@gmail.com<br>
+**Phone**: +8801721998383<br>
+Dept. of CSE, SUST <br>
+
+- **Name**: Md. Abid Ullah Muhib<br>
+**Email**: uusshas12@gmail.com<br>
+**Phone**: +8801733402023<br>
+Dept. of CSE, SUST <br>
