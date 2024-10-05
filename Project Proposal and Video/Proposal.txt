@@ -1,0 +1,29 @@
+We seek to hear, to understand,  
+The trembling heart of rock and sand.  
+For every quake, a tale untold,  
+Of Earth’s great depths, both fierce and bold.
+
+In the vast silence of space, every tremor tells a story. After conquering Earth's surface, humans have always wondered what lies beneath. There have been countless stories and legends about the hidden world below. This curiosity grew exponentially as we began exploring the outer worlds. To achieve this, we’ve launched numerous missions to the Moon, Mars, Saturn, and beyond—each one driven by the desire to uncover the secrets beneath these distant worlds.
+
+With the revolution of science and technology, new methods have emerged to demystify the interior of planets by analyzing seismic data. Despite some challenges, this technique has enabled us to uncover the hidden depths of planets. Now, the current goal is to make this process more energy-efficient and effective. We, Team 'ONURONON' on behalf of the challenge "Seismic Detection Across the Solar System" present you our mission to make the transfer of seismic data from distant planets to Earth more accurate and efficient.
+
+Seismic data from missions like Apollo and Mars InSight often suffers from noise caused by environmental interference, instrument limitations, and spacecraft disturbances, making it difficult to identify true seismic quakes. Our task is to develop a program that processes seismic data in real time, filtering out noise while detecting actual quakes, all while keeping energy use minimal. The solution must also ensure reliable data transmission across vast distances.
+
+To solve these challenges, we, Team 'নিউটনের নাতি's, propose a multi-layered solution:
+
+1.⁠ ⁠Signal Processing: Using filters to separate useful seismic data from noise.
+2.⁠ ⁠Feature Extraction: Identifying key patterns, like amplitude peaks, to detect seismic activity.
+3.⁠ ⁠Classification: Distinguishing between quakes and noise using thresholds or machine learning.
+4.⁠ ⁠Data Reduction: Sending only relevant data during quake events to conserve energy.
+
+Since it's not feasible to test our algorithm on real planetary data, we will create a simulation in an Android app. This app will feature detailed graphics of the Moon and Mars, showing real-time planet locations, and including pages like:
+
+•⁠  ⁠An Events Page for past seismic data,
+•⁠  ⁠A Landers Page with real-time location tracking,
+•⁠  ⁠A Seismic Data Page with graphs from the landers.
+
+This app will make space exploration more accessible and educational, engaging users with real-time data.
+
+Our solution offers key benefits: it reduces power consumption, improves data accuracy, and helps predict seismic activity, crucial for building safe habitats on the Moon and Mars. By refining our techniques, we can reveal the hidden structures of distant planets, advancing our understanding of planetary geophysics.
+
+Looking forward, this approach could evolve to detect volcanic activity or water presence, helping future missions be more precise and energy-efficient. The potential for smarter, safer missions is vast, paving the way for future human habitation on other planets.

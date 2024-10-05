@@ -35,7 +35,7 @@ The primary benefits that one can achieve from our **Machine Learning Model** ar
 
 - Reduces Power Consumption
 - Improves Data Accuracy
-- Predict Sysmic Activity
+- Predict Seismic Activity
 - Crutial for Building Safe Habitats on the Moon and Mars
   
 ## Resources
