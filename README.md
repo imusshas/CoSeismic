@@ -39,10 +39,8 @@ The primary benefits that one can achieve from our **Machine Learning Model** ar
 - Crutial for Building Safe Habitats on the Moon and Mars
   
 ## Resources
-- **Train Dataset:** 
-- **Test Dataset:**
-- **Earth Data from pyweed:** https://www.kaggle.com/datasets/nasiatfahim/earthquake-time-vs-velocity-dataset
-- **NASA Provided Dataset:** https://www.kaggle.com/datasets/nasiatfahim/space-app-2024-official-dataset
+- **Earth Data from pyweed (train-dataset):** https://www.kaggle.com/datasets/nasiatfahim/earthquake-time-vs-velocity-dataset
+- **NASA Provided Dataset (test-dataset):** https://www.kaggle.com/datasets/nasiatfahim/space-app-2024-official-dataset
 
 ## Usage
 **The Jupyter Notebook contains detailed instructions on how to run the seismic analysis and visualize the data.** The provided algorithms can be modified to enhance the detection of seismic quakes or use machine learning models for more complex analysis.
