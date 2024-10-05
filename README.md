@@ -20,7 +20,9 @@ Planetary seismology missions struggle with the power requirements necessary to 
 ## Solution Procedures
 
 **We have developed a machine learning model** to solve the challange. The steps are described below:-
-
+https://www.kaggle.com/code/nasiathasanfahim/2n-2c-4n-fold2/notebook
+https://www.kaggle.com/code/nasiatfahim/2n-1c-4n-fold2/notebook
+https://www.kaggle.com/code/kagglehood/3c-6n-fold3/notebook
 ### Signal Processing
 ### Feature Extraction
 ### Classification
@@ -39,8 +41,8 @@ The primary benefits that one can achieve from our **Machine Learning Model** ar
 ## Resources
 - **Train Dataset:** 
 - **Test Dataset:**
-- **Earth Data from pyweed:**
-- **NASA Provided Dataset:**
+- **Earth Data from pyweed:** https://www.kaggle.com/datasets/nasiatfahim/earthquake-time-vs-velocity-dataset
+- **NASA Provided Dataset:** https://www.kaggle.com/datasets/nasiatfahim/space-app-2024-official-dataset
 
 ## Usage
 **The Jupyter Notebook contains detailed instructions on how to run the seismic analysis and visualize the data.** The provided algorithms can be modified to enhance the detection of seismic quakes or use machine learning models for more complex analysis.
